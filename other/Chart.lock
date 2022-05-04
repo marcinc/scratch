@@ -1,0 +1,6 @@
+dependencies:
+- name: busy
+  repository: file://../busy
+  version: 0.1.0
+digest: sha256:ff3ab7453f7cb9f05e0aa7cdb535b409b2a7e7ded956b72dc17cad41ba0b14f3
+generated: "2022-05-04T14:43:57.567887+01:00"
