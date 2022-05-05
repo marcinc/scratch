@@ -34,3 +34,6 @@ dependencies:
   version: 0.1.0
   repository: file://../other
   alias: other-dep-of-scratch
+- name: dgraph
+  version: 0.0.20
+  repository: http://helm.devtron.ai/

@@ -2,5 +2,8 @@ dependencies:
 - name: other
   repository: file://../other
   version: 0.1.0
-digest: sha256:09aab3084f7701f79386bf90d8cda2d2ef467dfc1c4258a47f1348503ad64061
-generated: "2022-05-04T19:03:24.380737+01:00"
+- name: dgraph
+  repository: http://helm.devtron.ai/
+  version: 0.0.20
+digest: sha256:c803dedc47b4b1f4b0e714d5d7a971cdc7f916e968ba7737ea901123e6568380
+generated: "2022-05-05T14:45:11.373514+01:00"
